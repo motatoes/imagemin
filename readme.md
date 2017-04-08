@@ -7,6 +7,8 @@
 
 ```
 $ npm install --save imagemin
+$ npm install --save imagemin-jpegtran
+$ npm install --save 'imagemin-pngquant'
 ```
 
 
